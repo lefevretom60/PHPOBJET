@@ -5,7 +5,7 @@ class USER {
     private $Prenom;
     
     public function  afficheUser() {
-        echo "je suis un User<p>";
+        echo "je suis un User ";
         echo "Mon nom est ".$this->Nom;
         echo "Mon prénom est ".$this->Prenom;
 
