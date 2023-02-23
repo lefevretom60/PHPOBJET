@@ -1,11 +1,11 @@
 <style>
-    .div{padding-left: 43%;}
-    strong{color:blue;}
+    .div{padding-left: 45%;}
+    strong{color:red;}
     pre{
-        border: 3px solid lightgray;
-        box-sizing: border-box;
+        border: 9px; 
         border-radius: 8px 3px 10px 9px;
-    width:25%;}
+    width:25%;
+    }
 </style>
 <body>
     <?php
